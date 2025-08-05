@@ -47,13 +47,46 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  
+  <!-- SQL Server (no Devicon icon, using official branding) -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a8/Microsoft_SQL_Server_Logo.svg" height="40" alt="sql server logo" />
+  <img width="12" />
+
+  <!-- .NET -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".net logo" />
+  <img width="12" />
+
+  <!-- IntelliJ IDEA (no direct Devicon icon, using JetBrains logo) -->
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" height="40" alt="intellij logo" />
+  <img width="12" />
+
+  <!-- Pandas (custom logo) -->
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+
+  <!-- NumPy (custom logo) -->
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+
+  <!-- Scikit-learn (custom logo) -->
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" height="40" alt="scikit-learn logo" />
+  <img width="12" />
+
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+
+  <!-- Postman (custom logo) -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
 </div>
 
 
