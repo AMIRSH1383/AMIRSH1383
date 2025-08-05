@@ -45,9 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" />
-  <!-- Verilog does not have an official devicon, might require a placeholder or custom image -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Verilog_logo.png" height="40" alt="verilog logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo" />
@@ -57,9 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <!-- n8n does not have a Devicon icon, using official logo from n8n -->
-  <img src="https://n8n.io/images/n8n-logo.png" height="40" alt="n8n logo" />
 </div>
 
 
